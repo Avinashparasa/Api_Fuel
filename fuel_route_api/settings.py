@@ -26,7 +26,7 @@ SECRET_KEY = 'django-insecure-wadc4fl^@mj@t50o9m9ayqt&(+9hmp%_z&(m$mfbg3+h4r05(+
 DEBUG = True
 
 ALLOWED_HOSTS = [
-    "api-fuel-3.onrender.com",  # Add your Render app's domain here
+    "api-fuel-5.onrender.com",  # Add your Render app's domain here
     "localhost",                # For local development
     "127.0.0.1",                # For local development
 ]
